@@ -13,7 +13,7 @@
     "macExecutableFilename": "",
     "orientation": "landscape",
     "packageName": "com.example.gamename",
-    "projectFile": "C:\\Users\\Asher\\Documents\\GDevelop projects\\My project\\game.json",
+    "projectFile": "C:\\Users\\Asher\\Documents\\GitHub\\2019-10-09-CLASS-pinball\\GDevelop projects\\2019-10-04-pinball\\game.json",
     "scaleMode": "linear",
     "sizeOnStartupMode": "adaptWidth",
     "useExternalSourceFiles": false,
@@ -356,7 +356,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 1.54
+        "zoomFactor": 2.95
       },
       "objectsGroups": [
         {
@@ -432,7 +432,7 @@
           "locked": false,
           "name": "Back",
           "width": 0,
-          "x": 313,
+          "x": 311,
           "y": 130,
           "zOrder": 1,
           "numberProperties": [],
@@ -447,7 +447,7 @@
           "locked": false,
           "name": "Front",
           "width": 0,
-          "x": 313,
+          "x": 311,
           "y": 130,
           "zOrder": 2,
           "numberProperties": [],
@@ -477,7 +477,7 @@
           "locked": false,
           "name": "Pin",
           "width": 0,
-          "x": 350,
+          "x": 348,
           "y": 175,
           "zOrder": 4,
           "numberProperties": [],
@@ -492,7 +492,7 @@
           "locked": false,
           "name": "Pin",
           "width": 0,
-          "x": 370,
+          "x": 368,
           "y": 174,
           "zOrder": 5,
           "numberProperties": [],
@@ -507,7 +507,7 @@
           "locked": false,
           "name": "Pin",
           "width": 0,
-          "x": 390,
+          "x": 388,
           "y": 174,
           "zOrder": 6,
           "numberProperties": [],
@@ -522,7 +522,7 @@
           "locked": false,
           "name": "Pin",
           "width": 0,
-          "x": 410,
+          "x": 408,
           "y": 174,
           "zOrder": 7,
           "numberProperties": [],
@@ -537,7 +537,7 @@
           "locked": false,
           "name": "Pin",
           "width": 0,
-          "x": 431,
+          "x": 429,
           "y": 174,
           "zOrder": 8,
           "numberProperties": [],
@@ -552,7 +552,7 @@
           "locked": false,
           "name": "Pin",
           "width": 0,
-          "x": 451,
+          "x": 449,
           "y": 174,
           "zOrder": 9,
           "numberProperties": [],
@@ -567,7 +567,7 @@
           "locked": false,
           "name": "Pin",
           "width": 0,
-          "x": 340,
+          "x": 338,
           "y": 196,
           "zOrder": 10,
           "numberProperties": [],
@@ -582,7 +582,7 @@
           "locked": false,
           "name": "Pin",
           "width": 0,
-          "x": 360,
+          "x": 358,
           "y": 196,
           "zOrder": 11,
           "numberProperties": [],
@@ -597,7 +597,7 @@
           "locked": false,
           "name": "Pin",
           "width": 0,
-          "x": 380,
+          "x": 378,
           "y": 196,
           "zOrder": 12,
           "numberProperties": [],
@@ -612,7 +612,7 @@
           "locked": false,
           "name": "Pin",
           "width": 0,
-          "x": 400,
+          "x": 398,
           "y": 196,
           "zOrder": 13,
           "numberProperties": [],
@@ -627,7 +627,7 @@
           "locked": false,
           "name": "Pin",
           "width": 0,
-          "x": 420,
+          "x": 418,
           "y": 196,
           "zOrder": 14,
           "numberProperties": [],
@@ -642,7 +642,7 @@
           "locked": false,
           "name": "Pin",
           "width": 0,
-          "x": 441,
+          "x": 439,
           "y": 196,
           "zOrder": 15,
           "numberProperties": [],
@@ -657,7 +657,7 @@
           "locked": false,
           "name": "Pin",
           "width": 0,
-          "x": 461,
+          "x": 459,
           "y": 196,
           "zOrder": 16,
           "numberProperties": [],
@@ -672,7 +672,7 @@
           "locked": false,
           "name": "Pin",
           "width": 0,
-          "x": 350,
+          "x": 348,
           "y": 220,
           "zOrder": 17,
           "numberProperties": [],
@@ -687,7 +687,7 @@
           "locked": false,
           "name": "Pin",
           "width": 0,
-          "x": 370,
+          "x": 368,
           "y": 220,
           "zOrder": 18,
           "numberProperties": [],
@@ -702,7 +702,7 @@
           "locked": false,
           "name": "Pin",
           "width": 0,
-          "x": 390,
+          "x": 388,
           "y": 220,
           "zOrder": 19,
           "numberProperties": [],
@@ -717,7 +717,7 @@
           "locked": false,
           "name": "Pin",
           "width": 0,
-          "x": 410,
+          "x": 408,
           "y": 220,
           "zOrder": 20,
           "numberProperties": [],
@@ -732,7 +732,7 @@
           "locked": false,
           "name": "Pin",
           "width": 0,
-          "x": 431,
+          "x": 429,
           "y": 220,
           "zOrder": 21,
           "numberProperties": [],
@@ -747,7 +747,7 @@
           "locked": false,
           "name": "Pin",
           "width": 0,
-          "x": 451,
+          "x": 449,
           "y": 220,
           "zOrder": 22,
           "numberProperties": [],
@@ -762,7 +762,7 @@
           "locked": false,
           "name": "BouncePlatform",
           "width": 0,
-          "x": 336,
+          "x": 334,
           "y": 261,
           "zOrder": 26,
           "numberProperties": [],
@@ -777,7 +777,7 @@
           "locked": false,
           "name": "Lbar",
           "width": 0,
-          "x": 342,
+          "x": 340,
           "y": 331,
           "zOrder": 27,
           "numberProperties": [],
@@ -792,7 +792,7 @@
           "locked": false,
           "name": "Rbar",
           "width": 0,
-          "x": 413,
+          "x": 411,
           "y": 332,
           "zOrder": 28,
           "numberProperties": [],
@@ -807,7 +807,7 @@
           "locked": false,
           "name": "Go",
           "width": 0,
-          "x": 401,
+          "x": 399,
           "y": 392,
           "zOrder": 29,
           "numberProperties": [],
@@ -822,7 +822,7 @@
           "locked": false,
           "name": "FrontTopR",
           "width": 0,
-          "x": 451,
+          "x": 449,
           "y": 130,
           "zOrder": 0,
           "numberProperties": [],
@@ -837,7 +837,7 @@
           "locked": false,
           "name": "FrontTopL",
           "width": 0,
-          "x": 324,
+          "x": 322,
           "y": 130,
           "zOrder": 0,
           "numberProperties": [],
@@ -852,7 +852,7 @@
           "locked": false,
           "name": "FrontTopM",
           "width": 0,
-          "x": 377,
+          "x": 375,
           "y": 130,
           "zOrder": 0,
           "numberProperties": [],
@@ -867,7 +867,7 @@
           "locked": false,
           "name": "FrontRbar",
           "width": 0,
-          "x": 504,
+          "x": 502,
           "y": 132,
           "zOrder": 0,
           "numberProperties": [],
@@ -882,7 +882,7 @@
           "locked": false,
           "name": "FrontLbar",
           "width": 0,
-          "x": 315,
+          "x": 313,
           "y": 132,
           "zOrder": 0,
           "numberProperties": [],
@@ -897,7 +897,7 @@
           "locked": false,
           "name": "FrontBottom",
           "width": 0,
-          "x": 315,
+          "x": 313,
           "y": 354,
           "zOrder": 0,
           "numberProperties": [],
@@ -912,7 +912,7 @@
           "locked": false,
           "name": "Mbar",
           "width": 9,
-          "x": 483,
+          "x": 481,
           "y": 181,
           "zOrder": 0,
           "numberProperties": [],
@@ -927,7 +927,7 @@
           "locked": false,
           "name": "MbarBottom",
           "width": 0,
-          "x": 435,
+          "x": 433,
           "y": 356,
           "zOrder": 0,
           "numberProperties": [],
@@ -942,7 +942,7 @@
           "locked": false,
           "name": "Ball",
           "width": 9,
-          "x": 494,
+          "x": 492,
           "y": 317,
           "zOrder": 42,
           "numberProperties": [],
@@ -957,7 +957,7 @@
           "locked": false,
           "name": "TestBounce01",
           "width": 23,
-          "x": 455,
+          "x": 453,
           "y": 252,
           "zOrder": 43,
           "numberProperties": [],
@@ -972,7 +972,7 @@
           "locked": false,
           "name": "TestBounce02",
           "width": 23,
-          "x": 414,
+          "x": 412,
           "y": 279,
           "zOrder": 44,
           "numberProperties": [],
@@ -987,7 +987,7 @@
           "locked": false,
           "name": "TestBounce03",
           "width": 23,
-          "x": 383,
+          "x": 381,
           "y": 239,
           "zOrder": 45,
           "numberProperties": [],
@@ -1002,7 +1002,7 @@
           "locked": false,
           "name": "Pin",
           "width": 0,
-          "x": 470,
+          "x": 468,
           "y": 245,
           "zOrder": 46,
           "numberProperties": [],
@@ -1017,7 +1017,7 @@
           "locked": false,
           "name": "Pin",
           "width": 0,
-          "x": 477,
+          "x": 475,
           "y": 237,
           "zOrder": 47,
           "numberProperties": [],
@@ -1032,7 +1032,7 @@
           "locked": false,
           "name": "Pin",
           "width": 0,
-          "x": 324,
+          "x": 322,
           "y": 322,
           "zOrder": 48,
           "numberProperties": [],
@@ -1047,9 +1047,144 @@
           "locked": false,
           "name": "Pin",
           "width": 0,
-          "x": 339,
+          "x": 337,
           "y": 329,
           "zOrder": 50,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 9,
+          "layer": "",
+          "locked": false,
+          "name": "Ball",
+          "width": 9,
+          "x": 327,
+          "y": 348,
+          "zOrder": 42,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 9,
+          "layer": "",
+          "locked": false,
+          "name": "Ball",
+          "width": 9,
+          "x": 338,
+          "y": 351,
+          "zOrder": 42,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 9,
+          "layer": "",
+          "locked": false,
+          "name": "Ball",
+          "width": 9,
+          "x": 348,
+          "y": 354,
+          "zOrder": 42,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 9,
+          "layer": "",
+          "locked": false,
+          "name": "Ball",
+          "width": 9,
+          "x": 359,
+          "y": 357,
+          "zOrder": 42,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 9,
+          "layer": "",
+          "locked": false,
+          "name": "Ball",
+          "width": 9,
+          "x": 371,
+          "y": 360,
+          "zOrder": 42,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 9,
+          "layer": "",
+          "locked": false,
+          "name": "Ball",
+          "width": 9,
+          "x": 383,
+          "y": 363,
+          "zOrder": 42,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 9,
+          "layer": "",
+          "locked": false,
+          "name": "Ball",
+          "width": 9,
+          "x": 395,
+          "y": 366,
+          "zOrder": 42,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 9,
+          "layer": "",
+          "locked": false,
+          "name": "Ball",
+          "width": 9,
+          "x": 419,
+          "y": 372,
+          "zOrder": 42,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 9,
+          "layer": "",
+          "locked": false,
+          "name": "Ball",
+          "width": 9,
+          "x": 407,
+          "y": 369,
+          "zOrder": 42,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2587,10 +2722,10 @@
               "masks": 1
             },
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ],
@@ -2849,6 +2984,149 @@
               "subInstructions": []
             }
           ],
+          "actions": [],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Physics2::Collision"
+                  },
+                  "parameters": [
+                    "FrontRbar",
+                    "Physics2",
+                    "Ball",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "Physics2::Collision"
+                      },
+                      "parameters": [
+                        "FrontBottom",
+                        "Physics2",
+                        "Ball",
+                        ""
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "Physics2::ApplyForce"
+                      },
+                      "parameters": [
+                        "Ball",
+                        "Physics2",
+                        "",
+                        "RandomFloatInRange(-7, -2.8)",
+                        "",
+                        ""
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                }
+              ]
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Physics2::Collision"
+                  },
+                  "parameters": [
+                    "Ball",
+                    "Physics2",
+                    "Ball",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "Physics2::Collision"
+                      },
+                      "parameters": [
+                        "MbarBottom",
+                        "Physics2",
+                        "Ball",
+                        ""
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "Physics2::ApplyForce"
+                      },
+                      "parameters": [
+                        "Ball",
+                        "Physics2",
+                        "",
+                        "RandomFloatInRange(-9.0, -8.0)",
+                        "",
+                        ""
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "r"
+              ],
+              "subInstructions": []
+            }
+          ],
           "actions": [
             {
               "type": {
@@ -2862,6 +3140,459 @@
                 "RandomFloatInRange(-5.2, -2.4)",
                 "",
                 ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Opacity"
+              },
+              "parameters": [
+                "Back",
+                "",
+                "200"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Opacity"
+              },
+              "parameters": [
+                "Front",
+                "",
+                "200"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Opacity"
+              },
+              "parameters": [
+                "BouncePlatform",
+                "",
+                "200"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Opacity"
+              },
+              "parameters": [
+                "Go",
+                "",
+                "200"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Opacity"
+              },
+              "parameters": [
+                "Lbar",
+                "",
+                "200"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Opacity"
+              },
+              "parameters": [
+                "Rbar",
+                "",
+                "200"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Opacity"
+              },
+              "parameters": [
+                "Pin",
+                "",
+                "200"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Opacity"
+              },
+              "parameters": [
+                "FrontRbar",
+                "",
+                "200"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Opacity"
+              },
+              "parameters": [
+                "FrontLbar",
+                "",
+                "200"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Opacity"
+              },
+              "parameters": [
+                "FrontTopR",
+                "",
+                "200"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Opacity"
+              },
+              "parameters": [
+                "FrontTopL",
+                "",
+                "200"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Opacity"
+              },
+              "parameters": [
+                "FrontTopM",
+                "",
+                "200"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Opacity"
+              },
+              "parameters": [
+                "Mbar",
+                "",
+                "200"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Opacity"
+              },
+              "parameters": [
+                "MbarBottom",
+                "",
+                "200"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Opacity"
+              },
+              "parameters": [
+                "FrontBottom",
+                "",
+                "200"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Opacity"
+              },
+              "parameters": [
+                "TestBounce01",
+                "",
+                "200"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Opacity"
+              },
+              "parameters": [
+                "TestBounce02",
+                "",
+                "200"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Opacity"
+              },
+              "parameters": [
+                "TestBounce03",
+                "",
+                "200"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "KeyReleased"
+              },
+              "parameters": [
+                "",
+                "r"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Opacity"
+              },
+              "parameters": [
+                "Go",
+                "",
+                "255"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Opacity"
+              },
+              "parameters": [
+                "FrontTopR",
+                "",
+                "255"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Opacity"
+              },
+              "parameters": [
+                "BouncePlatform",
+                "",
+                "255"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Opacity"
+              },
+              "parameters": [
+                "Back",
+                "",
+                "255"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Opacity"
+              },
+              "parameters": [
+                "Front",
+                "",
+                "255"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Opacity"
+              },
+              "parameters": [
+                "FrontLbar",
+                "",
+                "255"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Opacity"
+              },
+              "parameters": [
+                "Lbar",
+                "",
+                "255"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Opacity"
+              },
+              "parameters": [
+                "Rbar",
+                "",
+                "255"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Opacity"
+              },
+              "parameters": [
+                "Pin",
+                "",
+                "255"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Opacity"
+              },
+              "parameters": [
+                "FrontRbar",
+                "",
+                "255"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Opacity"
+              },
+              "parameters": [
+                "FrontTopL",
+                "",
+                "255"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Opacity"
+              },
+              "parameters": [
+                "FrontTopM",
+                "",
+                "255"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Opacity"
+              },
+              "parameters": [
+                "Mbar",
+                "",
+                "255"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Opacity"
+              },
+              "parameters": [
+                "MbarBottom",
+                "",
+                "255"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Opacity"
+              },
+              "parameters": [
+                "FrontBottom",
+                "",
+                "255"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Opacity"
+              },
+              "parameters": [
+                "TestBounce01",
+                "",
+                "255"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Opacity"
+              },
+              "parameters": [
+                "TestBounce03",
+                "",
+                "255"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Opacity"
+              },
+              "parameters": [
+                "TestBounce02",
+                "",
+                "255"
               ],
               "subInstructions": []
             }
